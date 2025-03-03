@@ -4,7 +4,7 @@ function sumarElementos(arreglo) {
     let suma = 0
 
 for(i=0; i<arreglo.length; i++){
-    suma=suma+arreglo[i]
+    suma = suma+arreglo[i]
 }
 return suma;
 }
