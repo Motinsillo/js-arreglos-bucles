@@ -13,6 +13,7 @@ return suma;
 function encontrarMayor(arreglo) {
     // Los estudiantes implementarán esta función
     // Debe retornar el número más grande del arreglo
+    //ultima revision
     
     let mayor = Math.max(...arreglo);
     return mayor;
